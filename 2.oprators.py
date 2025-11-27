@@ -153,4 +153,19 @@
 
 print("hello")
 
+"""
 
+git init
+git add -A
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mitulpatel2909/test.git
+git push -u origin main
+
+
+
+git status
+git add -A
+git commit -m "first commit"
+git push -u origin main
+"""
