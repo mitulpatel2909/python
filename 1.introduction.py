@@ -76,6 +76,28 @@ dafs
 # print(type(number))
 
 
+# f function 
+
+
+# name="mitul"
+# age=20
+# # ouput : my name is mitul and my age is 20
+# print(f"my name is {name} and my age is {age}")
+
+
+
+
+
+# end = " " function
+
+# a=10
+# b=20
+
+# print(a,end=" ")
+# print(b,end=" ")
+# print(b)
+
+
 
 
 # oprators
